@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simulador-risco-energia/static/css/main.3ee3c8a8.chunk.css",
+    "main.js": "/simulador-risco-energia/static/js/main.354187b7.chunk.js",
+    "main.js.map": "/simulador-risco-energia/static/js/main.354187b7.chunk.js.map",
+    "runtime-main.js": "/simulador-risco-energia/static/js/runtime-main.68276d3e.js",
+    "runtime-main.js.map": "/simulador-risco-energia/static/js/runtime-main.68276d3e.js.map",
+    "static/js/2.0039c8cb.chunk.js": "/simulador-risco-energia/static/js/2.0039c8cb.chunk.js",
+    "static/js/2.0039c8cb.chunk.js.map": "/simulador-risco-energia/static/js/2.0039c8cb.chunk.js.map",
+    "index.html": "/simulador-risco-energia/index.html",
+    "precache-manifest.a1dff916beda147d40de4edc29ba91f2.js": "/simulador-risco-energia/precache-manifest.a1dff916beda147d40de4edc29ba91f2.js",
+    "service-worker.js": "/simulador-risco-energia/service-worker.js",
+    "static/css/main.3ee3c8a8.chunk.css.map": "/simulador-risco-energia/static/css/main.3ee3c8a8.chunk.css.map",
+    "static/js/2.0039c8cb.chunk.js.LICENSE.txt": "/simulador-risco-energia/static/js/2.0039c8cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68276d3e.js",
+    "static/js/2.0039c8cb.chunk.js",
+    "static/css/main.3ee3c8a8.chunk.css",
+    "static/js/main.354187b7.chunk.js"
+  ]
+}
